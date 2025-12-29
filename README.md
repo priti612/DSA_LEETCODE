@@ -1,6 +1,27 @@
-# DSA_LEETCODE
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode & DSA Solutions
 
+Hi 👋 I'm **Priti Prabha**  
+A passionate Computer Science student with strong interest in **Data Structures, Algorithms, and Problem Solving**.
+
+This repository contains my **LeetCode solutions**, written with a focus on:
+- ✅ Clean & readable code  
+- ⚡ Optimal time and space complexity  
+- 🧠 Strong conceptual understanding  
+
+---
+
+## 📌 About This Repository
+
+- 🔹 Platform: **LeetCode**
+- 🔹 Purpose: **DSA practice & interview preparation**
+- 🔹 Approach:
+  - Step-by-step logic
+  - Optimized solutions
+  - Consistent practice
+
+Problems are organized based on **difficulty level** for easy navigation.
+
+## 📂 Folder Structure
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table

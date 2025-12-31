@@ -33,6 +33,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0058-length-of-last-word](https://github.com/priti612/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |

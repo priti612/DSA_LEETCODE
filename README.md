@@ -57,6 +57,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -87,4 +89,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Trie
 |  |
 | ------- |

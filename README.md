@@ -75,6 +75,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -108,4 +110,9 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

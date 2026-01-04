@@ -107,6 +107,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0021-merge-two-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -123,6 +124,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |

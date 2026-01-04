@@ -42,6 +42,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
+| [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
 ## Trie
 |  |
 | ------- |

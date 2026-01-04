@@ -36,6 +36,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
@@ -101,6 +102,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 ## Backtracking
@@ -110,6 +112,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |

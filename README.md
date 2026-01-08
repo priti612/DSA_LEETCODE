@@ -32,6 +32,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -67,6 +68,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
+| [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
@@ -143,6 +145,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +204,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priti612/DSA_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/priti612/DSA_LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/priti612/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

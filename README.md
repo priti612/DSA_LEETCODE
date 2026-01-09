@@ -36,6 +36,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
 | ------- |
@@ -182,16 +183,19 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Reservoir Sampling
 |  |
@@ -220,4 +224,5 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

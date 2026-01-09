@@ -152,6 +152,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0020-valid-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -168,6 +169,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -227,4 +229,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

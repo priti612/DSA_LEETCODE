@@ -65,6 +65,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
 |  |
 | ------- |
@@ -233,4 +234,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->

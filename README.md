@@ -72,6 +72,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -183,6 +185,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -224,6 +227,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
@@ -237,5 +241,6 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->

@@ -216,6 +216,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/priti612/DSA_LEETCODE/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/priti612/DSA_LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/priti612/DSA_LEETCODE/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/priti612/DSA_LEETCODE/tree/master/1068-product-sales-analysis-i) |

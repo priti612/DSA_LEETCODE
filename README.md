@@ -76,6 +76,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -133,6 +134,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -250,5 +252,6 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->

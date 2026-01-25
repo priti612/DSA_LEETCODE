@@ -243,6 +243,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0584-find-customer-referee](https://github.com/priti612/DSA_LEETCODE/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/priti612/DSA_LEETCODE/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/priti612/DSA_LEETCODE/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/priti612/DSA_LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/priti612/DSA_LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/priti612/DSA_LEETCODE/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/priti612/DSA_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

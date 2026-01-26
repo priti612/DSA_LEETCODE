@@ -79,6 +79,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0094-binary-tree-inorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -253,6 +256,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0094-binary-tree-inorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -335,4 +339,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

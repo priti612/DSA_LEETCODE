@@ -83,6 +83,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
@@ -204,6 +205,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -331,6 +333,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |

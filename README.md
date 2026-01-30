@@ -27,6 +27,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -75,6 +76,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |

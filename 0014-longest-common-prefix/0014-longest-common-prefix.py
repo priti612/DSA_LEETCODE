@@ -4,10 +4,15 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        p=strs[0]
-        for i in strs[1:]:
-            while not i.startswith(p):
-                 p=p[:-1]
-            if not p:
-                return ""
-        return p  
+        i=0
+        n=len(strs)
+        mini=float('inf')
+        for s in strs:
+            if len(s)<mini:
+                mini=len(s)
+        while i<mini:
+            for s in strs:
+                if s[i]!=strs[0][i]:
+                    return strs[0][:i]
+            i+=1
+        return strs[0][:i]

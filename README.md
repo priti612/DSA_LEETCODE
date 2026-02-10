@@ -138,6 +138,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0191-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |

@@ -35,6 +35,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
@@ -71,6 +72,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -147,6 +149,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Simulation
 |  |
@@ -158,6 +161,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

@@ -84,6 +84,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0001-two-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
@@ -377,6 +378,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 ## Brainteaser

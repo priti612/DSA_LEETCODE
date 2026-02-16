@@ -1,6 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        b=["(","[","{"]
+        b=['(','{','[']
         st=[]
         for i in s:
             if i in b:
@@ -16,3 +16,6 @@ class Solution:
                 if st.pop()!=i:
                     return False
         return len(st)==0
+
+
+            

@@ -91,6 +91,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/priti612/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
@@ -176,6 +177,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
@@ -200,6 +202,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0022-generate-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/priti612/DSA_LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 ## Linked List

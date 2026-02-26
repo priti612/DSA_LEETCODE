@@ -130,6 +130,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priti612/DSA_LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -421,6 +422,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
@@ -431,6 +433,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |

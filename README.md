@@ -79,6 +79,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
@@ -167,6 +168,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
@@ -456,4 +459,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

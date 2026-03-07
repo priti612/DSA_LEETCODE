@@ -222,6 +222,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0022-generate-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/priti612/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/priti612/DSA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 ## Linked List

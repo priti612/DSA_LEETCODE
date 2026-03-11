@@ -70,6 +70,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/priti612/DSA_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
@@ -214,6 +215,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/priti612/DSA_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
@@ -434,6 +436,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priti612/DSA_LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |

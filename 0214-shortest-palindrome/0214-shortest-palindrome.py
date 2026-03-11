@@ -1,14 +1,14 @@
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
-        
-        res=""
-        if len(s)==1:
-            return s
-        for i in range(len(s),-1,-1):
-            res=s[:i]
-            if res==res[::-1]:
-                add=s[i:][::-1]
-                return add+s
-            # print(res)
-        return ""
-
+        n=len(s)
+        res=s[::-1]
+        new=s+'#'+res
+        lps=[0]*len(new)
+        j=0
+        for i in range(1,len(new)):
+            while j>0 and new[i]!=new[j]:
+                j=lps[j-1]
+            if new[i]==new[j]:
+                j+=1
+            lps[i]=j
+        return res[:len(s)-lps[-1]]+s

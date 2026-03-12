@@ -78,6 +78,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/priti612/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -109,6 +110,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0051-n-queens](https://github.com/priti612/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priti612/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
@@ -195,6 +197,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |

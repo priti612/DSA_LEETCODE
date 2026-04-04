@@ -47,6 +47,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -221,6 +222,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -349,6 +351,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -369,6 +372,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -392,6 +396,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -450,6 +455,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Queue

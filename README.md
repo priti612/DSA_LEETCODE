@@ -103,6 +103,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |

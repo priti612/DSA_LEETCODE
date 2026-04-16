@@ -52,6 +52,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
@@ -543,4 +545,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->

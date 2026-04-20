@@ -149,6 +149,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -216,6 +217,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Simulation
 |  |
@@ -509,6 +511,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |

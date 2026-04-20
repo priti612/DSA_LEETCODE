@@ -142,6 +142,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0503-next-greater-element-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Simulation
 |  |
@@ -259,6 +261,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 ## Linked List
 |  |
 | ------- |
@@ -495,6 +498,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -551,8 +555,13 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 ## Enumeration
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->

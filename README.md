@@ -155,6 +155,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0978-longest-turbulent-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -513,6 +514,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0978-longest-turbulent-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -538,6 +540,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |

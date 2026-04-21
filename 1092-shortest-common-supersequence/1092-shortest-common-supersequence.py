@@ -1,35 +1,35 @@
 class Solution:
-    def shortestCommonSupersequence(self, s1: str, s2: str) -> str:
-
-        n=len(s1)
-        m=len(s2)
+    def shortestCommonSupersequence(self, str1: str, str2: str) -> str:
+        n=len(str1)
+        m=len(str2)
         t=[[0]*(m+1) for _ in range(n+1)]
-        
         for i in range(1,n+1):
             for j in range(1,m+1):
-                if s1[i-1]==s2[j-1]:
+                if str1[i-1]==str2[j-1]:
                     t[i][j]=1+t[i-1][j-1]
                 else:
                     t[i][j]=max(t[i-1][j],t[i][j-1])
-            
+        
+        i=n
+        j=m
         res=[]
-        i,j=n,m
         while i>0 and j>0:
-            if s1[i-1] == s2[j-1]:
-                res.append(s1[i-1])
+            if str1[i-1]==str2[j-1]:
+                res.append(str1[i-1])
                 i-=1
                 j-=1
-            elif t[i-1][j] >t[i][j-1]:
-                res.append(s1[i-1])
-                i-=1
+                
             else:
-                res.append(s2[j-1])
-                j-=1
+                if t[i-1][j]>t[i][j-1]:
+                    res.append(str1[i-1])
+                    i-=1
+                else:
+                    res.append(str2[j-1])
+                    j-=1
         while i>0:
-            res.append(s1[i-1])
+            res.append(str1[i-1])
             i-=1
         while j>0:
-            res.append(s2[j-1])
+            res.append(str2[j-1])
             j-=1
-        return "".join(reversed(res))
-            
+        return "".join(res[::-1])

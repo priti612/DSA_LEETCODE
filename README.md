@@ -173,6 +173,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
@@ -236,6 +237,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -359,6 +361,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Tree
 |  |

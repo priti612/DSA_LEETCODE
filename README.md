@@ -30,6 +30,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0001-two-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -127,6 +128,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priti612/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
@@ -359,6 +361,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |

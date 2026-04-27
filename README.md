@@ -98,6 +98,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
@@ -319,6 +320,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0144-binary-tree-preorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -391,6 +393,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0199-binary-tree-right-side-view](https://github.com/priti612/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
@@ -444,6 +447,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0199-binary-tree-right-side-view](https://github.com/priti612/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |

@@ -354,6 +354,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Merge Sort
 |  |
@@ -447,6 +448,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -550,6 +552,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -676,6 +679,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Topological Sort
@@ -687,4 +691,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

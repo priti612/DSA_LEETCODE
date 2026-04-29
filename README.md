@@ -119,6 +119,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Array
 |  |
@@ -622,6 +623,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |

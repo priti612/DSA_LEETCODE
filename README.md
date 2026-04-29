@@ -71,6 +71,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/priti612/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/priti612/DSA_LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
@@ -238,6 +239,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/priti612/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
@@ -282,6 +284,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0203-remove-linked-list-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/priti612/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |

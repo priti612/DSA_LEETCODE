@@ -670,6 +670,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -726,4 +727,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

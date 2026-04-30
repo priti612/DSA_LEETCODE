@@ -154,6 +154,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -670,6 +671,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |

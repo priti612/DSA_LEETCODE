@@ -206,6 +206,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -637,6 +638,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -653,6 +655,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
 | ------- |

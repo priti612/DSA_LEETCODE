@@ -160,6 +160,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
@@ -598,6 +599,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |

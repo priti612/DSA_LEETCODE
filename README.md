@@ -173,6 +173,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -682,6 +683,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Brainteaser

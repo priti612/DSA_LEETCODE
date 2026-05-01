@@ -1,32 +1,33 @@
 class Solution:
-    def solved(self,h):
-            st=[]
-            max_a=0
-            hs=h+[0]
-            for i in range(len(hs)):    
-                while st and hs[i]<hs[st[-1]]:
-                    hh=hs[st.pop()]
-                    if not st:
-                        w=i
-                    else:
-                        w=i-st[-1]-1
-                    max_a=max(max_a,hh*w)
-                st.append(i)
-            return max_a
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        n=len(matrix)
-        m=len(matrix[0])
+        if not matrix:
+            return 0
+        n=len(matrix[0])
+        ht=[0]*n
+        left=[0]*n
+        right=[n]*n
         maxi=0
-        h=[0]*m
-        for i in range(n):
-            for j in range(m):
-                if matrix[i][j]=='1':
-                    h[j]+=1
+        for i in range(len(matrix)):
+            currleft,currright=0,n
+            for j in range(n):
+                if matrix[i][j]=="1":
+                    ht[j]+=1
                 else:
-                    h[j]=0
-            maxi=max(maxi,self.solved(h))
+                    ht[j]=0
+            print(ht)
+            for j in range(n):
+                if matrix[i][j]=='1':
+                    left[j]=max(left[j],currleft)
+                else:
+                    left[j]=0
+                    currleft=j+1
+            print(left)
+            for j in range(n-1,-1,-1):
+                if matrix[i][j]=='1':
+                    right[j]=min(right[j],currright)
+                else:
+                    right[j]=n
+                    currright=j
+            for j in range(n):
+                maxi=max(maxi,(right[j]-left[j])*ht[j])
         return maxi
-        
-                    
-
-            

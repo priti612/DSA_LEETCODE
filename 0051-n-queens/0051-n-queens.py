@@ -1,14 +1,12 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        
         res=[]
         b=[['.']*n for i in range(n)]
         row,col,pos,neg=set(),set(),set(),set()
-        
-        
         def sol(i):
+            # temp=[]
             if i==n:
-                res.append([''.join(p) for p in b])
+                res.append(["".join(p) for p in b])
                 return
             for j in range(n):
                 if i in row or j in col or i+j in pos or i-j in neg or b[i][j]=='Q':
@@ -24,5 +22,7 @@ class Solution:
                 pos.discard(i+j)
                 neg.discard(i-j)
                 b[i][j]='.'
+            
+
         sol(0)
         return res

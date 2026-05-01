@@ -160,6 +160,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -277,6 +278,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -676,6 +678,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |

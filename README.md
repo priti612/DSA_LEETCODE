@@ -112,6 +112,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0557-reverse-words-in-a-string-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -244,6 +245,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |

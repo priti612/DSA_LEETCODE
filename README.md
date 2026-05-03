@@ -471,6 +471,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0145-binary-tree-postorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priti612/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/priti612/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -579,6 +580,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priti612/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/priti612/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/priti612/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -731,6 +733,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/priti612/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -739,6 +742,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/priti612/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Combinatorics

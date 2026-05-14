@@ -59,6 +59,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -301,6 +303,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Recursion

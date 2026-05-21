@@ -122,6 +122,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -253,6 +254,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0557-reverse-words-in-a-string-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priti612/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -389,6 +391,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |

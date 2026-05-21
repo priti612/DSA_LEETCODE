@@ -1,15 +1,11 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        s = ''.join(c.lower() for c in s if c.isalnum())
-        f=0
-        l=len(s)-1
-        while f<l:
-            if s[l]!=s[f]:
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        w="".join(i.lower() for i in s if i.isalnum())
+        left=0
+        right=len(w)-1
+        while left<right:
+            if w[left]!=w[right]:
                 return False
-            f+=1
-            l-=1
+            left+=1
+            right-=1
         return True

@@ -84,6 +84,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1922-count-good-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String
@@ -339,6 +340,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/priti612/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |

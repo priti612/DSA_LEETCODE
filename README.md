@@ -38,6 +38,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/priti612/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -175,6 +176,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
@@ -320,6 +322,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priti612/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/priti612/DSA_LEETCODE/tree/master/0506-relative-ranks) |
@@ -412,10 +415,12 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/priti612/DSA_LEETCODE/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -733,6 +738,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -818,4 +824,12 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

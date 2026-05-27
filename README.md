@@ -82,6 +82,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0382-linked-list-random-node](https://github.com/priti612/DSA_LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -206,6 +207,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
@@ -335,6 +337,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -424,6 +427,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0191-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -434,6 +438,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priti612/DSA_LEETCODE/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priti612/DSA_LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -712,6 +717,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Prefix Sum
 |  |
@@ -845,4 +851,5 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

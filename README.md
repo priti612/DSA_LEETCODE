@@ -63,6 +63,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -245,6 +246,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |

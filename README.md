@@ -189,6 +189,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |
@@ -344,6 +345,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priti612/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -479,6 +481,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0055-jump-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
@@ -710,6 +713,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |

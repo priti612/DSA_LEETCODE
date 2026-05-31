@@ -136,6 +136,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -357,6 +358,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |

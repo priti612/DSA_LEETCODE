@@ -66,6 +66,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -96,6 +97,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String
 |  |
@@ -256,6 +258,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2460-apply-operations-to-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -794,6 +797,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -887,4 +891,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0215-kth-largest-element-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->

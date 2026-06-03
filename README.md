@@ -165,6 +165,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0051-n-queens](https://github.com/priti612/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
@@ -508,6 +509,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -719,6 +721,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0053-maximum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/priti612/DSA_LEETCODE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |

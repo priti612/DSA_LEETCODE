@@ -1,14 +1,15 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
- 
         n=len(s)
-        t=[0]*(n+1)
-        t[0]=1
-        t[1]=1 if s[0]!='0' else 0
-        for i in range(2,n+1):
-            if s[i-1]!="0":
-                t[i]+=t[i-1]
-            if s[i-2]=="1" or (s[i-2]=="2" and s[i-1]<="6"):
-                t[i]+=t[i-2]
-        return t[-1]
-
+        dp=[0]*(n+1)
+        dp[n]=1
+        for i in range(n-1,-1,-1):
+            if s[i]=='0':
+                dp[i]=0
+            else:
+                dp[i]+=dp[i+1]
+                if i+1<n:
+                    two=int(s[i]+s[i+1])
+                    if 10<=two<=26:
+                        dp[i]+=dp[i+2]
+        return dp[0]

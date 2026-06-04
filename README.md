@@ -81,6 +81,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priti612/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
@@ -526,6 +527,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0101-symmetric-tree) |
@@ -603,6 +605,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0101-symmetric-tree) |
@@ -727,6 +730,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/priti612/DSA_LEETCODE/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priti612/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -815,6 +819,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/priti612/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |

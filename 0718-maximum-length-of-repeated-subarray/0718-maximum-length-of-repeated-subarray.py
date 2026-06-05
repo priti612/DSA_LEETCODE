@@ -8,7 +8,7 @@ class Solution:
             for j in range(1,m+1):
                 if nums1[i-1]==nums2[j-1]:
                     t[i][j]=1+t[i-1][j-1]
-                    res=max(res,t[i][j])
+                    res=max(t[i][j],res)
                 else:
                     t[i][j]=0
         return res

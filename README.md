@@ -196,6 +196,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -739,6 +740,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0124-binary-tree-maximum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/priti612/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
@@ -830,6 +832,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0700-search-in-a-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |

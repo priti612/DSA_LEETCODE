@@ -117,6 +117,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/priti612/DSA_LEETCODE/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/priti612/DSA_LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/priti612/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
@@ -181,6 +182,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0074-search-a-2d-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priti612/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priti612/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0090-subsets-ii) |
@@ -414,6 +416,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0052-n-queens-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/priti612/DSA_LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
@@ -527,6 +530,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priti612/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
@@ -578,6 +582,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priti612/DSA_LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0100-same-tree) |

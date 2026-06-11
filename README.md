@@ -146,6 +146,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -320,6 +321,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -509,6 +511,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -864,6 +867,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0214-shortest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 ## Memoization
 |  |
 | ------- |

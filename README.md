@@ -614,6 +614,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/priti612/DSA_LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0872-leaf-similar-trees) |
@@ -726,6 +727,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/priti612/DSA_LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -902,6 +904,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+| [0841-keys-and-rooms](https://github.com/priti612/DSA_LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Topological Sort
 |  |

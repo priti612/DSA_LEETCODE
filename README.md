@@ -610,6 +610,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -723,6 +724,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -901,6 +903,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0207-course-schedule](https://github.com/priti612/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/priti612/DSA_LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
@@ -927,6 +930,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 ## Interactive
 |  |
 | ------- |

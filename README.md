@@ -254,6 +254,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/priti612/DSA_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
@@ -908,6 +909,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/priti612/DSA_LEETCODE/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Topological Sort
 |  |
@@ -931,6 +933,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 ## Interactive
 |  |
 | ------- |
@@ -951,4 +954,8 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

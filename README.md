@@ -624,6 +624,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -740,6 +741,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
@@ -911,6 +913,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/priti612/DSA_LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/priti612/DSA_LEETCODE/tree/master/0841-keys-and-rooms) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -936,6 +939,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive

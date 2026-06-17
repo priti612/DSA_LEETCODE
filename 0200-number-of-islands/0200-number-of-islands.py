@@ -9,8 +9,6 @@ class Solution:
             sol(i,j-1)
             sol(i-1,j)
 
-
-
         ct=0
         for r in range(len(grid)):
             for c in range(len(grid[0])):

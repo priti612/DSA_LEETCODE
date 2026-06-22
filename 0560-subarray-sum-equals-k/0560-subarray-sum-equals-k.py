@@ -1,15 +1,13 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        n=len(nums)
-        prefix=0
+        mp={}
+        pre=0
         ct=0
-        
-        f={0:1}
-        for x in nums:
-            prefix+=x
-            t=prefix-k
-            if t in f:
-              ct+=f[t]
-            f[prefix]=f.get(prefix,0)+1
+        for i in range(len(nums)):
+            pre+=nums[i]
+            if pre==k:
+                ct+=1
+            if pre-k in mp:
+                ct+=mp[pre-k]
+            mp[pre]=mp.get(pre,0)+1
         return ct
-

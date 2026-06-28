@@ -168,6 +168,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/priti612/DSA_LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -303,6 +304,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/priti612/DSA_LEETCODE/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -532,6 +534,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |

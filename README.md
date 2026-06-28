@@ -242,6 +242,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
+| [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -325,6 +326,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -401,6 +403,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0506-relative-ranks](https://github.com/priti612/DSA_LEETCODE/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -544,6 +547,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priti612/DSA_LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |

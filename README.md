@@ -98,6 +98,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -150,6 +151,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0784-letter-case-permutation](https://github.com/priti612/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |

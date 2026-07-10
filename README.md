@@ -92,6 +92,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0231-power-of-two](https://github.com/priti612/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/priti612/DSA_LEETCODE/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/priti612/DSA_LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/priti612/DSA_LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
@@ -634,6 +635,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/priti612/DSA_LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -753,6 +755,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0226-invert-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/priti612/DSA_LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/priti612/DSA_LEETCODE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priti612/DSA_LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |

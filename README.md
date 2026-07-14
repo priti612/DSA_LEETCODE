@@ -35,6 +35,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0128-longest-consecutive-sequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/priti612/DSA_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0069-sqrtx](https://github.com/priti612/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/priti612/DSA_LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/priti612/DSA_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
@@ -211,6 +213,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0128-longest-consecutive-sequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/priti612/DSA_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priti612/DSA_LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
@@ -840,6 +843,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/priti612/DSA_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Prefix Sum

@@ -111,6 +111,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1922-count-good-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## String
@@ -301,6 +302,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2460-apply-operations-to-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -1013,6 +1015,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 ## Minimum Spanning Tree
 |  |

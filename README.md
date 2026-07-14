@@ -106,6 +106,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/1922-count-good-numbers) |
@@ -285,6 +286,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -895,6 +897,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
@@ -1014,6 +1017,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |

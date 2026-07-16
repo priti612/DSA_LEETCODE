@@ -82,6 +82,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0002-add-two-numbers](https://github.com/priti612/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/priti612/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/priti612/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/priti612/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/priti612/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/priti612/DSA_LEETCODE/tree/master/0067-add-binary) |
@@ -192,6 +193,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0042-trapping-rain-water](https://github.com/priti612/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/priti612/DSA_LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/priti612/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/priti612/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0055-jump-game) |
@@ -575,6 +577,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priti612/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |

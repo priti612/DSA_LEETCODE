@@ -48,6 +48,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/priti612/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
@@ -247,6 +248,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0503-next-greater-element-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/priti612/DSA_LEETCODE/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
@@ -863,6 +865,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/priti612/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |

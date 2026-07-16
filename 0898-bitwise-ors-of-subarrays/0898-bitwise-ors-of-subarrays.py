@@ -1,25 +1,11 @@
 class Solution:
-    def subarrayBitwiseORs(self, arr: List[int]) -> int:
+    def subarrayBitwiseORs(self, nums: List[int]) -> int:
         
-        # subarr=[]
-        # f={}
-        # ans=[]
-        # if len(arr)==1:
-        #     return 1
-        # for i in range(len(arr)):
-        #     for j in range(i,len(arr)):
-        #         subarr.append((arr[i:j+1]))
-        #         print(subarr)
-        # for sub in subarr:
-        #     res=0
-        #     for sb in sub:
-        #         res|=sb
-        #         ans.append(res)
-        # return len(set(ans))
         ans=set()
-        curr=set()
-        for x in arr:
-            curr={x | y for y in curr}|{x}
-            ans|=curr
+        cur=set()
+        for v in nums:
+            curr={v|x for x in cur}
+            curr.add(v)
+            ans.update(curr)
+            cur=curr
         return len(ans)
-        

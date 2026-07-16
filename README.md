@@ -218,6 +218,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0136-single-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/priti612/DSA_LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priti612/DSA_LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
@@ -817,6 +818,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0119-pascals-triangle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priti612/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priti612/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |

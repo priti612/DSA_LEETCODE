@@ -259,6 +259,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
+| [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -871,6 +872,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -890,6 +892,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/priti612/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -937,6 +940,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0374-guess-number-higher-or-lower](https://github.com/priti612/DSA_LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/priti612/DSA_LEETCODE/tree/master/0436-find-right-interval) |
 | [0700-search-in-a-binary-search-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |

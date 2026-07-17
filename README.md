@@ -253,6 +253,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
+| [0643-maximum-average-subarray-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
@@ -884,6 +885,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0187-repeated-dna-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/priti612/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/priti612/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |

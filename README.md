@@ -168,6 +168,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priti612/DSA_LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -520,6 +521,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |

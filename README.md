@@ -232,6 +232,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0217-contains-duplicate](https://github.com/priti612/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/priti612/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/priti612/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
@@ -539,6 +540,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/priti612/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/priti612/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/priti612/DSA_LEETCODE/tree/master/0506-relative-ranks) |
@@ -804,6 +806,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priti612/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/priti612/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Dynamic Programming
@@ -890,6 +893,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/priti612/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/priti612/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -975,6 +979,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/priti612/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Graph Theory
 |  |

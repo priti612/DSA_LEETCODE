@@ -1,21 +1,19 @@
 class Solution:
-    def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
-        nums.sort()
+    def combinationSum2(self, candidates: List[int], tot: int) -> List[List[int]]:
+        candidates.sort()
+        def sol(idx,tot,subset):
+            if tot==0:
+                res.append(subset.copy())
+                return
+            if tot<0:
+                return
+            for i in range(idx,len(candidates)):
+                if i>idx and candidates[i]==candidates[i-1]:
+                    continue
+                subset.append(candidates[i])
+                sm=tot-candidates[i]
+                sol(i+1,sm,subset)
+                subset.pop()
         res=[]
-        def sol(i,temp,tg):
-            if tg==0:
-                res.append(temp[:])
-                return 
-            for j in range(i,len(nums)):
-                if i!=j and nums[j]==nums[j-1]:
-                    continue 
-                if nums[j]>tg:
-                    break
-                temp.append(nums[j])
-                sol(j+1,temp,tg-nums[j])
-                temp.pop()
-
-
-
-        sol(0,[],target)
+        sol(0,tot,[])
         return res

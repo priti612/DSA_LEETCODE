@@ -1,16 +1,18 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         res=[]
-        def sol(i):
-            if i==len(nums):
-                if nums[:] not in res:
-                    res.append(nums[:])
-                    return
-            for j in range(i,len(nums)):
-                nums[i],nums[j]=nums[j],nums[i]
-                sol(i+1)
-                nums[i],nums[j]=nums[j],nums[i]
+        def sol(idx,nums):
+            if idx==len(nums):
+                res.append(nums[:])
+                return
+            s=set()
+            for i in range(idx,len(nums)):
+                if nums[i] in s:
+                    continue
+                s.add(nums[i])
+                nums[idx],nums[i]=nums[i],nums[idx]
+                sol(idx+1,nums)
+                nums[idx],nums[i]=nums[i],nums[idx]
 
-
-        sol(0)
+        sol(0,nums)
         return res

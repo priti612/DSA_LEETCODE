@@ -1,13 +1,19 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        sub=[[]]
-        for num in nums:
-            sub+=[curr+[num] for curr in sub]
-        print(sub)
+        def sol(idx,subset):
+            xr=0
+            nonlocal sm
+            for x in subset:
+                xr^=x
+            sm+=xr
+            for i in range(idx,len(nums)):
+                subset.append(nums[i])
+                sol(i+1,subset)
+                subset.pop()
+
+                
+
+
         sm=0
-        for s in sub:
-            curr=0
-            for i in s:
-                curr^=i
-            sm+=curr
+        sol(0,[])
         return sm

@@ -1,13 +1,13 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans=[]
-        def solve(idx,subset):
+        res=[]
+        def sol(idx,subset):
             if idx==len(nums):
-                ans.append(subset.copy())
+                res.append(subset.copy())
                 return
             subset.append(nums[idx])
-            solve(idx+1,subset)
+            sol(idx+1,subset)
             subset.pop()
-            solve(idx+1,subset)
-        solve(0,[])
-        return ans
+            sol(idx+1,subset)
+        sol(0,[])
+        return res

@@ -1,22 +1,21 @@
 class Solution:
     def combinationSum(self, nums: List[int], target: int) -> List[List[int]]:
-        res=[]
         nums.sort()
-        def sol(i,temp,tg):
-            if tg==0:
-                res.append(temp[:])
+        def sol(idx,tot,subset):
+            if tot==target:
+                res.append(subset.copy())
                 return
-            if i>=len(nums) or tg<0:
+            if tot>target:
                 return
             
-            for j in range(i,len(nums)):
-                if nums[j]>tg:
-                    break
-                temp.append(nums[j])
-                sol(j,temp,tg-nums[j])
-                temp.pop()
-
-        sol(0,[],target)
+            for i in range(idx,len(nums)):
+                subset.append(nums[i])
+                sm=tot+nums[i]
+                sol(i,sm,subset)
+                sm=tot
+                subset.pop()
+                
+            
+        res=[]
+        sol(0,0,[])
         return res
-            
-        

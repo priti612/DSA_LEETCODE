@@ -138,6 +138,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0091-decode-ways](https://github.com/priti612/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/priti612/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0187-repeated-dna-sequences) |
@@ -476,6 +477,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0078-subsets](https://github.com/priti612/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/priti612/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/priti612/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0784-letter-case-permutation](https://github.com/priti612/DSA_LEETCODE/tree/master/0784-letter-case-permutation) |
@@ -831,6 +833,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0119-pascals-triangle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priti612/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/priti612/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priti612/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |

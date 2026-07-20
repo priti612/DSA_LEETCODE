@@ -1,29 +1,25 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        def sol(i,j,idx):
-            n=len(board)
-            m=len(board[0])
-            if idx==len(word):
+        row=len(board)
+        col=len(board[0])
+        s=set()
+        def dfs(r,c,i):
+            if i==len(word):
                 return True
-
-            d=[(1,0),(0,1),(-1,0),(0,-1)]
-
-            if i<0 or j<0 or j>=m or i>=n or board[i][j]!=word[idx]:
+            if (r<0 or c<0 or r>=row or c>=col or word[i]!=board[r][c] or (r,c) in s):
                 return False
-            temp=board[i][j]
-            board[i][j]="#"
-            found=(
-            sol(i+1,j,idx+1) or
-            sol(i,j-1,idx+1) or
-            sol(i-1,j,idx+1) or
-            sol(i,j+1,idx+1)
-            )
-            board[i][j]=temp
-            return found
-        for r in range(len(board)):
-            for c in range(len(board[0])):
-                if sol(r,c,0):
-                    return True
+            s.add((r,c))
+            res=(dfs(r+1,c,i+1) or
+                    dfs(r-1,c,i+1) or
+                    dfs(r,c+1,i+1) or
+                    dfs(r,c-1,i+1)
+                    )
+            s.remove((r,c))
+            return res
+            
 
-        
+        for i in range(row):
+            for j in range(col):
+                if dfs(i,j,0):
+                    return True
         return False

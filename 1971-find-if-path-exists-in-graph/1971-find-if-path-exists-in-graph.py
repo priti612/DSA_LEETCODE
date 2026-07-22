@@ -1,25 +1,17 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        
-        adj=[[] for _ in range(n)]
+        gp=defaultdict(list)
         for u,v in edges:
-            adj[u].append(v)
-            adj[v].append(u)
-        vis=set()
-        res=[]
+            gp[u].append(v)
+            gp[v].append(u)
+        s=set()
         def dfs(node):
-            vis.add(node)
-            res.append(node)
-            for nei in adj[node]:
-                if nei not in vis:
-                    dfs(nei)
-        dfs(source)
-        for i in range(len(res)):
-            if res[i]==destination:
+            s.add(node)
+            if node==destination:
                 return True
-        return False
-
-
-
-
-
+            for nei in gp[node]:
+                if nei not in s:
+                    if dfs(nei):
+                        return True
+            return False
+        return dfs(source)

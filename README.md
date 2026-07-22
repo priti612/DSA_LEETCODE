@@ -289,6 +289,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/priti612/DSA_LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/priti612/DSA_LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/priti612/DSA_LEETCODE/tree/master/1390-four-divisors) |
@@ -603,6 +604,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -683,6 +685,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -802,6 +805,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priti612/DSA_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -924,6 +928,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/priti612/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -1024,6 +1029,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0128-longest-consecutive-sequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/priti612/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priti612/DSA_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |

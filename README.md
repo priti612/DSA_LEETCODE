@@ -304,6 +304,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priti612/DSA_LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -605,6 +606,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
+| [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -690,6 +692,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priti612/DSA_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -808,6 +811,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priti612/DSA_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
@@ -1032,6 +1036,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/priti612/DSA_LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priti612/DSA_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/priti612/DSA_LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive

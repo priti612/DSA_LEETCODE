@@ -287,6 +287,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/priti612/DSA_LEETCODE/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/priti612/DSA_LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -607,6 +608,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0221-maximal-square](https://github.com/priti612/DSA_LEETCODE/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
@@ -813,6 +815,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/priti612/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/priti612/DSA_LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-count-servers-that-communicate](https://github.com/priti612/DSA_LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/priti612/DSA_LEETCODE/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |

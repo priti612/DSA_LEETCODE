@@ -309,6 +309,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1584-min-cost-to-connect-all-points](https://github.com/priti612/DSA_LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/priti612/DSA_LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [1652-defuse-the-bomb](https://github.com/priti612/DSA_LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
@@ -944,6 +945,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priti612/DSA_LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/priti612/DSA_LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

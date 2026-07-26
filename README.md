@@ -52,6 +52,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
+| [0740-delete-and-earn](https://github.com/priti612/DSA_LEETCODE/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priti612/DSA_LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -268,6 +269,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0705-design-hashset](https://github.com/priti612/DSA_LEETCODE/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/priti612/DSA_LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -873,6 +875,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/priti612/DSA_LEETCODE/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priti612/DSA_LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0873-length-of-longest-fibonacci-subsequence) |

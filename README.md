@@ -176,6 +176,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -894,6 +895,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/priti612/DSA_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Geometry
@@ -942,6 +944,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priti612/DSA_LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |

@@ -339,6 +339,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
+| [2706-buy-two-chocolates](https://github.com/priti612/DSA_LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -463,6 +464,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priti612/DSA_LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/priti612/DSA_LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -607,6 +609,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2405-optimal-partition-of-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2706-buy-two-chocolates](https://github.com/priti612/DSA_LEETCODE/tree/master/2706-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |

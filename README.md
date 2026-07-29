@@ -73,6 +73,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -182,6 +183,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -603,6 +605,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priti612/DSA_LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2405-optimal-partition-of-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |

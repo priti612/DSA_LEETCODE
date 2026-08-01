@@ -319,6 +319,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1929-concatenation-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priti612/DSA_LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -428,6 +429,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/priti612/DSA_LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |

@@ -154,6 +154,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0344-reverse-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/priti612/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/priti612/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/priti612/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -375,6 +376,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priti612/DSA_LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -882,6 +884,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priti612/DSA_LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priti612/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0494-target-sum) |

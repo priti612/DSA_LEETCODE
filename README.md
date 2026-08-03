@@ -178,6 +178,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priti612/DSA_LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
+| [1768-merge-strings-alternately](https://github.com/priti612/DSA_LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/priti612/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -385,6 +386,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0876-middle-of-the-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/priti612/DSA_LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priti612/DSA_LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |

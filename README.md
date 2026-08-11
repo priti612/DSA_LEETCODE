@@ -176,6 +176,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priti612/DSA_LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
@@ -939,6 +940,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0974-subarray-sums-divisible-by-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priti612/DSA_LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/priti612/DSA_LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |

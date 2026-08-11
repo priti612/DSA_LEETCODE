@@ -1,5 +1,10 @@
 public class Solution {
     public int[] GetConcatenation(int[] nums) {
-        return nums.Concat(nums).ToArray();
+       int n=nums.Length;
+       int[] ans=new int[2*n];
+       for(int i=0;i<n;i++){
+        ans[i]=ans[i+n]=nums[i];
+       }
+       return ans;
     }
 }

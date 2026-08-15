@@ -254,6 +254,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0260-single-number-iii](https://github.com/priti612/DSA_LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/priti612/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/priti612/DSA_LEETCODE/tree/master/0322-coin-change) |
@@ -380,6 +381,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priti612/DSA_LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |

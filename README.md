@@ -77,6 +77,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2405-optimal-partition-of-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
@@ -193,6 +194,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2418-sort-the-people](https://github.com/priti612/DSA_LEETCODE/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
@@ -347,6 +349,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2460-apply-operations-to-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
@@ -434,6 +437,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/priti612/DSA_LEETCODE/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -996,6 +1000,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/priti612/DSA_LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 ## Binary Search Tree
 |  |

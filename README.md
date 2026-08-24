@@ -146,6 +146,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0097-interleaving-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/priti612/DSA_LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/priti612/DSA_LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/priti612/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0187-repeated-dna-sequences) |
@@ -386,6 +387,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priti612/DSA_LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priti612/DSA_LEETCODE/tree/master/0283-move-zeroes) |

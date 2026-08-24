@@ -1,13 +1,5 @@
 class Solution:
-    def reversePrefix(self, word: str, ch: str) -> str:
-        idx=word.find(ch)
-        if ch not in word:
-            return word
-        left=0
-        word=[i for i in word]
-        while left<idx:
-            word[left],word[idx]=word[idx],word[left]
-            left+=1
-            idx-=1
-        return "".join(word)
-                
+    def reversePrefix(self, s: str, ch: str) -> str:
+        idx=s.find(ch)
+
+        return s[:idx+1][::-1]+s[idx+1:]

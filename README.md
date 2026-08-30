@@ -341,6 +341,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/priti612/DSA_LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/priti612/DSA_LEETCODE/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/priti612/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -939,6 +940,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1458-max-dot-product-of-two-subsequences](https://github.com/priti612/DSA_LEETCODE/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/priti612/DSA_LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/priti612/DSA_LEETCODE/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Geometry
 |  |
@@ -963,6 +965,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/priti612/DSA_LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/priti612/DSA_LEETCODE/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |

@@ -196,6 +196,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -353,6 +354,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2460-apply-operations-to-an-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/priti612/DSA_LEETCODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
@@ -963,6 +965,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window

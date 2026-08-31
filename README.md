@@ -330,6 +330,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1854-maximum-population-year](https://github.com/priti612/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1905-count-sub-islands](https://github.com/priti612/DSA_LEETCODE/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/priti612/DSA_LEETCODE/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -965,6 +966,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/priti612/DSA_LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1854-maximum-population-year](https://github.com/priti612/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/priti612/DSA_LEETCODE/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2270-number-of-ways-to-split-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1011,6 +1013,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/priti612/DSA_LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1854-maximum-population-year](https://github.com/priti612/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/priti612/DSA_LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/priti612/DSA_LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2364-count-number-of-bad-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2364-count-number-of-bad-pairs) |

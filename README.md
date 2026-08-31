@@ -82,6 +82,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/priti612/DSA_LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -363,6 +364,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2706-buy-two-chocolates](https://github.com/priti612/DSA_LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [2848-points-that-intersect-with-cars](https://github.com/priti612/DSA_LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -972,6 +974,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2483-minimum-penalty-for-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/priti612/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/priti612/DSA_LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |

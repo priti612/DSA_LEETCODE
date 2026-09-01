@@ -1,8 +1,9 @@
 class Solution:
-    def construct2DArray(self, nums: List[int], m: int, n: int) -> List[List[int]]:
-        ans=[]
-        if len(nums)!=n*m:
+    def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
+        
+        x=m*n
+        
+        if x!=len(original):
             return []
-        for i in range(0,n*m,n):
-            ans.append(nums[i:i+n])
-        return ans
+
+        return[original[i*n:(i+1)*n] for i in range(m)]

@@ -199,6 +199,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3110-score-of-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |

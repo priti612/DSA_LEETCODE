@@ -329,6 +329,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/priti612/DSA_LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1701-average-waiting-time](https://github.com/priti612/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1748-sum-of-unique-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/priti612/DSA_LEETCODE/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -460,6 +461,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/priti612/DSA_LEETCODE/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1701-average-waiting-time](https://github.com/priti612/DSA_LEETCODE/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/priti612/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priti612/DSA_LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |

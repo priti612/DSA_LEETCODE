@@ -127,6 +127,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/priti612/DSA_LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3870-count-commas-in-range](https://github.com/priti612/DSA_LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |

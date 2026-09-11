@@ -1,9 +1,9 @@
 class Solution:
     def similarPairs(self, words: List[str]) -> int:
         ct=0
-        w=[set(word) for word in words]
-        for i in range(len(w)):
-            for j in range(i+1,len(w)):
-                if w[i]==w[j]:
+        for i in range(len(words)):
+            for j in range(i+1,len(words)):
+                if set(words[i])==set(words[j]):
                     ct+=1
+
         return ct

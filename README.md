@@ -183,6 +183,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [1071-greatest-common-divisor-of-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/priti612/DSA_LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priti612/DSA_LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/1392-longest-happy-prefix) |
@@ -598,6 +599,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/priti612/DSA_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priti612/DSA_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/priti612/DSA_LEETCODE/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priti612/DSA_LEETCODE/tree/master/1598-crawler-log-folder) |

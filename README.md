@@ -86,6 +86,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/priti612/DSA_LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -206,6 +207,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2506-count-pairs-of-similar-strings](https://github.com/priti612/DSA_LEETCODE/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/priti612/DSA_LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/priti612/DSA_LEETCODE/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/priti612/DSA_LEETCODE/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/priti612/DSA_LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -380,6 +382,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/priti612/DSA_LEETCODE/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/priti612/DSA_LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/priti612/DSA_LEETCODE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priti612/DSA_LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -388,6 +391,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/priti612/DSA_LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |

@@ -312,6 +312,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/priti612/DSA_LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/priti612/DSA_LEETCODE/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0922-sort-array-by-parity-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/priti612/DSA_LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/priti612/DSA_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/priti612/DSA_LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -425,6 +426,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/priti612/DSA_LEETCODE/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/priti612/DSA_LEETCODE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/priti612/DSA_LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/priti612/DSA_LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -511,6 +513,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0692-top-k-frequent-words](https://github.com/priti612/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/priti612/DSA_LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/priti612/DSA_LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/priti612/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/priti612/DSA_LEETCODE/tree/master/1200-minimum-absolute-difference) |

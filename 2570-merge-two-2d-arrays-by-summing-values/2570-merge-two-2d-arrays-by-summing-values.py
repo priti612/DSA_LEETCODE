@@ -1,25 +1,24 @@
 class Solution:
     def mergeArrays(self, nums1: List[List[int]], nums2: List[List[int]]) -> List[List[int]]:
-        n=len(nums1)
-        m=len(nums2)
-        i=0
-        j=0
         ans=[]
-        while i<n and j<m:
-            if nums1[i][0]==nums2[j][0]:
-                ans.append([nums1[i][0],nums1[i][1]+nums2[j][1]])
+        i,j=0,0
+        while i<len(nums1) and j<len(nums2):
+            id1,val1=nums1[i]
+            id2,val2=nums2[j]
+            if id1==id2:
+                ans.append([id1,val1+val2])
                 i+=1
                 j+=1
-            elif nums1[i][0]<nums2[j][0]:
-                ans.append(nums1[i])
+            elif id1<id2:
+                ans.append([id1,val1])
                 i+=1
             else:
-                ans.append(nums2[j])
+                ans.append([id2,val2])
                 j+=1
-        while i<n:
+        while i<len(nums1):
             ans.append(nums1[i])
             i+=1
-        while j<m:
+        while j<len(nums2):
             ans.append(nums2[j])
             j+=1
         return ans

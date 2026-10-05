@@ -574,6 +574,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0021-merge-two-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/priti612/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/priti612/DSA_LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priti612/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/priti612/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |

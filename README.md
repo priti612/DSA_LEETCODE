@@ -380,6 +380,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [2653-sliding-subarray-beauty](https://github.com/priti612/DSA_LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2706-buy-two-chocolates](https://github.com/priti612/DSA_LEETCODE/tree/master/2706-buy-two-chocolates) |
 | [2748-number-of-beautiful-pairs](https://github.com/priti612/DSA_LEETCODE/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/priti612/DSA_LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/priti612/DSA_LEETCODE/tree/master/2848-points-that-intersect-with-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/priti612/DSA_LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1109,6 +1110,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priti612/DSA_LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/priti612/DSA_LEETCODE/tree/master/1995-count-special-quadruplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priti612/DSA_LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bitmask
 |  |
 | ------- |

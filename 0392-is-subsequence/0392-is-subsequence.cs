@@ -1,13 +1,14 @@
 public class Solution {
     public bool IsSubsequence(string s, string t) {
-        int i=0;
-        int j=0;
-        while (i<s.Length && j<t.Length){
-            if(s[i]==t[j]){
-                i++;
+        int left=0;
+        int right=0;
+        while(left<s.Length && right<t.Length){
+            if(s[left]==t[right]){
+                left++;
             }
-            j++;
+            right++;
         }
-        return i==s.Length;
+        return left==s.Length;
+
     }
 }

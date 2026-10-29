@@ -295,6 +295,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0560-subarray-sum-equals-k](https://github.com/priti612/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0638-shopping-offers](https://github.com/priti612/DSA_LEETCODE/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/priti612/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/priti612/DSA_LEETCODE/tree/master/0682-baseball-game) |
@@ -670,6 +671,7 @@ Problems are organized based on **difficulty level** for easy navigation.
 | [0455-assign-cookies](https://github.com/priti612/DSA_LEETCODE/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/priti612/DSA_LEETCODE/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priti612/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/priti612/DSA_LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/priti612/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/priti612/DSA_LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/priti612/DSA_LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
